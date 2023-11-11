@@ -1,0 +1,7 @@
+Flask
+numpy
+pandas
+pandas_profiling
+plotly
+scikit-learn
+streamlit
